@@ -1,6 +1,8 @@
 # Pandas
 Learning pandas: Loading data, cleaning data and performing basic functions. You can find different functions and sttributes used in pandas in the intro.ipynb file attached with the respective output they will give if performed on the given data.
 
+(THE WORKING FOR EACH FUNCTION IS MENTIONED ALONGSIDE IT IN THE RESPECTIVE BLOCK) 
+
 Dataset is taken form stack overflow
 link for the used data set: https://survey.stackoverflow.co/2019
 
