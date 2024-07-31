@@ -3,3 +3,5 @@ Learning pandas: Loading data, cleaning data and performing basic functions. You
 
 Dataset is taken form stack overflow
 link for the used data set: https://survey.stackoverflow.co/2019
+
+For further elaboration for contents check the README document in the data folder
